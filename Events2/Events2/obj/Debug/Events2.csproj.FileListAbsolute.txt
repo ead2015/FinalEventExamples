@@ -1,0 +1,11 @@
+C:\Shuja\DotNetSamples\F10\Events\Events2\Events2\bin\Debug\Events2.exe.config
+C:\Shuja\DotNetSamples\F10\Events\Events2\Events2\bin\Debug\Events2.exe
+C:\Shuja\DotNetSamples\F10\Events\Events2\Events2\bin\Debug\Events2.pdb
+C:\Shuja\DotNetSamples\F10\Events\Events2\Events2\obj\Debug\Events2.exe
+C:\Shuja\DotNetSamples\F10\Events\Events2\Events2\obj\Debug\Events2.pdb
+E:\DotNetSamples\F10\Events\Events2\Events2\bin\Debug\Events2.exe.config
+E:\DotNetSamples\F10\Events\Events2\Events2\obj\Debug\Events2.exe
+E:\DotNetSamples\F10\Events\Events2\Events2\obj\Debug\Events2.pdb
+E:\DotNetSamples\F10\Events\Events2\Events2\bin\Debug\Events2.exe
+E:\DotNetSamples\F10\Events\Events2\Events2\bin\Debug\Events2.pdb
+E:\DotNetSamples\F10\Events\Events2\Events2\obj\Debug\Events2.csprojResolveAssemblyReference.cache

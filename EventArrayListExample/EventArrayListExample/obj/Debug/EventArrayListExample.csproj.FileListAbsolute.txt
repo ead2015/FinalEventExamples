@@ -1,0 +1,6 @@
+E:\DotNetSamples\F10\Events\EventArrayListExample\EventArrayListExample\bin\Debug\EventArrayListExample.exe.config
+E:\DotNetSamples\F10\Events\EventArrayListExample\EventArrayListExample\bin\Debug\EventArrayListExample.exe
+E:\DotNetSamples\F10\Events\EventArrayListExample\EventArrayListExample\bin\Debug\EventArrayListExample.pdb
+E:\DotNetSamples\F10\Events\EventArrayListExample\EventArrayListExample\obj\Debug\EventArrayListExample.csprojResolveAssemblyReference.cache
+E:\DotNetSamples\F10\Events\EventArrayListExample\EventArrayListExample\obj\Debug\EventArrayListExample.exe
+E:\DotNetSamples\F10\Events\EventArrayListExample\EventArrayListExample\obj\Debug\EventArrayListExample.pdb

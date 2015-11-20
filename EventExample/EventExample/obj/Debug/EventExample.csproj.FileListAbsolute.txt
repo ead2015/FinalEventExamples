@@ -1,0 +1,12 @@
+C:\Shuja\DotNetSamples\F10\Events\EventExample\EventExample\bin\Debug\EventExample.exe.config
+C:\Shuja\DotNetSamples\F10\Events\EventExample\EventExample\obj\Debug\EventExample.csprojResolveAssemblyReference.cache
+C:\Shuja\DotNetSamples\F10\Events\EventExample\EventExample\bin\Debug\EventExample.exe
+C:\Shuja\DotNetSamples\F10\Events\EventExample\EventExample\bin\Debug\EventExample.pdb
+C:\Shuja\DotNetSamples\F10\Events\EventExample\EventExample\obj\Debug\EventExample.exe
+C:\Shuja\DotNetSamples\F10\Events\EventExample\EventExample\obj\Debug\EventExample.pdb
+E:\DotNetSamples\F10\Events\EventExample\EventExample\bin\Debug\EventExample.exe.config
+E:\DotNetSamples\F10\Events\EventExample\EventExample\bin\Debug\EventExample.exe
+E:\DotNetSamples\F10\Events\EventExample\EventExample\bin\Debug\EventExample.pdb
+E:\DotNetSamples\F10\Events\EventExample\EventExample\obj\Debug\EventExample.csprojResolveAssemblyReference.cache
+E:\DotNetSamples\F10\Events\EventExample\EventExample\obj\Debug\EventExample.exe
+E:\DotNetSamples\F10\Events\EventExample\EventExample\obj\Debug\EventExample.pdb
